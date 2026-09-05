@@ -5,6 +5,10 @@ automation. It combines an AI chat interface with a local coding workspace,
 Monaco Editor, language intelligence, terminal sessions, controlled tools, and
 permission-aware workspace access.
 
+Official website: [ai.vexacode.id](https://ai.vexacode.id)
+
+Product documentation: [ai.vexacode.id/docs](https://ai.vexacode.id/docs)
+
 ## Download
 
 Download the newest files from the [latest release](https://github.com/Hanafi-tech/vexa-desktop-releases/releases/latest).
@@ -50,7 +54,19 @@ on native macOS and Windows GitHub Actions runners. Versioned releases and the
 `latest` release contain the installer assets; this repository stores the
 installation guidance and release metadata.
 
+## Official links
+
+- Website: [ai.vexacode.id](https://ai.vexacode.id)
+- Documentation: [ai.vexacode.id/docs](https://ai.vexacode.id/docs)
+- About Vexa: [ai.vexacode.id/about](https://ai.vexacode.id/about)
+- Privacy: [ai.vexacode.id/privacy](https://ai.vexacode.id/privacy)
+- Terms: [ai.vexacode.id/terms](https://ai.vexacode.id/terms)
+- Security guidance: [ai.vexacode.id/docs#desktop-security](https://ai.vexacode.id/docs#desktop-security)
+
+This repository is a distribution channel for VexaCode installers. It is not
+intended for third-party code contributions or custom package uploads.
+
 ## License
 
-VexaCode is proprietary software. See the source repository for project and
-distribution details.
+VexaCode is proprietary software. See [LICENSE](./LICENSE) for the
+distribution terms.
